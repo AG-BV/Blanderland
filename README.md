@@ -1,5 +1,5 @@
 # Blanderland
-## Minecraft 1.56.5
+## Minecraft 1.16.5
 Modpack con tecnologia y surpervivencia avanzada
 ### IP: 158.69.226.179:25581
 ### Mods Link: https://github.com/Puctrus/Blanderland/tree/main/mods%201.16.5
