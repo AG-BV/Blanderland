@@ -15,4 +15,5 @@ Modpack con tecnologia y surpervivencia avanzada
 2. Ejecutan la instancia con el Forge y cierran el juego
 3. Abren el directorio de minecraft y dentro de la carpeta de mods agregan los .jar descargados
 4. Ready!
+
 ## By Alfonso Badilla
